@@ -1,2 +1,2 @@
-
+.containerParent{display:grid;grid-template-areas:". container .";grid-template-columns:5% 1fr 5%}.containerChild{grid-area:container;margin:25px 0}
 /*# sourceMappingURL=maps/mixins.css.map */

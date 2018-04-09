@@ -21,6 +21,17 @@
 }
 
 @font-face{
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans.eot');
+    src: url('../fonts/OpenSans/OpenSans.eot?iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans/OpenSans.woff') format('woff'),
+    url('../fonts/OpenSans/OpenSans.ttf') format('truetype'),
+    url('../fonts/OpenSans/OpenSans.svg#webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
     font-family: 'Roboto-Bold';
     src: url('../fonts/Roboto-Bold/Roboto-Bold.eot');
     src: url('../fonts/Roboto-Bold/Roboto-Bold.eot?iefix') format('embedded-opentype'),
